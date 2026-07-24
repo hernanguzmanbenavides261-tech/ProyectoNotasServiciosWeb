@@ -1,0 +1,5 @@
+com\hernan\notas\dao\NotaDAO.class
+com\hernan\notas\resources\JakartaEE10Resource.class
+com\hernan\notas\modelo\Nota.class
+com\hernan\notas\controlador\NotaServlet.class
+com\hernan\notas\JakartaRestConfiguration.class
